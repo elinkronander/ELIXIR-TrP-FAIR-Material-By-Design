@@ -1,35 +1,58 @@
 {
     "creators": [
         {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Field, Gar"
+            "orcid": "0000-0001-5958-0669",
+            "affiliation": "VIB",
+            "name": "Piereck, Bruna"
         },
         {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Cat, Felix"
+            "orcid": "0000-0003-0280-6318",
+            "affiliation": "NATIONAL BIOINFORMATICS INFRASTRUCTURE SWEDEN",
+            "name": "Kronander, Elin"
+        },
+        {
+            "orcid": "0009-0006-2607-5256",
+            "affiliation": "SciLifeLab",
+            "name": "Jarowski, Jill"
+        },
+        {
+            "orcid": "0000-0002-3823-1555",
+            "affiliation": "SciLifeLab",
+            "name": "Norgren, Nina"
+        },
+        {
+            "orcid": "0000-0002-6271-4530",
+            "affiliation": "SciLifeLab",
+            "name": "Schroeder, Kristen"
+        },
+        {
+            "orcid": "0000-0001-6691-4233",
+            "affiliation": "VIB",
+            "name": "Botzki, Alexander"
+        },
+        {
+            "orcid": "0000-0002-5042-8481",
+            "affiliation": "SciLifeLab",
+            "name": "Lindvall, Jessica"
         }
     ],
 
-    "license": "Apache-2.0",
+    "license": "CC-BY-NC-SA",
 
-    "title": "Red-Dot: ML-powered laser vector detection",
+    "title": "Training material made FAIR by design",
 
     "related_identifiers": [
         {
             "scheme": "doi",
-            "identifier": "10.1234/software.paper.5678",
+            "identifier": "10.1371/journal.pcbi.1007854",
             "relation": "isDocumentedBy",
             "resource_type": "publication-article"
         }
     ],
 
-    "keywords": ["Cats", "Laser", "Behavior"],
+    "keywords": ["FAIR", "Training", "ELIXIR"],
 
-    "communities": [
-        {"identifier": "software-cats"}
-    ],
+    
 
-    "grants": [{"id":"777541"}]
+    "grants": [{"id":"Phenet"}]
 }
