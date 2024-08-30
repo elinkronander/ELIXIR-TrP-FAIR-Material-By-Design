@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 
-message: "If you use this training material, please cite it as below."
+message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Piereck"
   given-names: "Bruna"
@@ -30,7 +30,7 @@ doi: XXX
 date-released: XXX
 url: "https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Material-By-Design/"
 
-message: "If you use this software, please cite it as below."
+message: "If you use this training material, please cite it as below."
 authors:
 - family-names: "van Geest"
   given-names: "Geert"
