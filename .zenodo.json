@@ -6,15 +6,15 @@
             "name": "Piereck, Bruna"
         },
         {
-            "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
-            "name": "Cat, Felix"
+            "orcid": "0000-0003-0280-6318",
+            "affiliation": "NATIONAL BIOINFORMATICS INFRASTRUCTURE SWEDEN",
+            "name": "Elin, Kronander"
         }
     ],
 
     "license": "Apache-2.0",
 
-    "title": "FAIR TRaining material by design",
+    "title": "FAIR Training material by design",
 
     "related_identifiers": [
         {
@@ -29,7 +29,5 @@
 
     "communities": [
         {"identifier": "software-cats"}
-    ],
-
-    "grants": [{"id":"777541"}]
+    ]
 }
