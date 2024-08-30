@@ -30,9 +30,5 @@
         }
     ],
 
-    "keywords": ["Cats", "Laser", "Behavior"],
-
-    "communities": [
-        {"identifier": "software-cats"}
-    ]
+    "keywords": ["FAIR", "Training", "ELIXIR"]
 }
