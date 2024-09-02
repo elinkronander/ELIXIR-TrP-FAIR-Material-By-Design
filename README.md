@@ -1,4 +1,3 @@
-[![DOI](https://sandbox.zenodo.org/badge/849843952.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.105196)
 
 ### Training material made FAIR _by design_
 
