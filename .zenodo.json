@@ -23,11 +23,10 @@
             "affiliation": "VIB",
         },
     "description": "This repository contains training material for a 2 day course on how to make your training materials FAIR. Activities are intended to increase the technical skills and critical thinking during the development of a new training course. The general
-learning outcomes of this material are:
-- Create FAIR and open training material from the start
-- Apply FAIR principles to all elements of training material
-- Include AI tools in content creation of FAIR training material
-",
+    learning outcomes of this material are:
+    - Create FAIR and open training material from the start
+    - Apply FAIR principles to all elements of training material
+    - Include AI tools in content creation of FAIR training material",
 
     "title": "FAIR Training material by design",
 
