@@ -22,7 +22,8 @@
             "orcid": "https://orcid.org/0000-0002-8210-4756",
             "affiliation": "VIB"
         }
-     ],"description": "This repository contains training material for a 2 day course on how to make your training materials FAIR. Activities are intended to increase the technical skills and critical thinking around the FAIR principles. The learning outcomes of this material are:\n- Create FAIR and open training material from the start\n- Apply FAIR principles to all elements of training material\n- Include AI tools in content creation of FAIR training material",
+     ],
+    "description": "This repository contains training material for a 2 day course on how to make your training materials FAIR. Activities are intended to increase the technical skills and critical thinking around the FAIR principles".
 
     "title": "FAIR Training material by design",
 
