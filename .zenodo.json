@@ -1,18 +1,21 @@
 {
     "creators": [
         {
-            "name": "Piereck, Bruna",
-            "orcid": "0000-0001-5958-0669",
-            "affiliation": "VIB",
+            "name": "Carberry, Josiah",
+            "orcid": "0000-0002-1825-0097",
+            "affiliation": "00enajs79",
             "type": "Author"
         }
     ],
     "contributors": [
         {
-            "name": "DeBo, Christophe",
-            "orcid": "0000-0002-8210-4756"
-            "affiliation": "VIB"
-            
+            "name": "Lovelace, Ada",
+            "type": "Researcher"
+        },
+        {
+            "name": "Babbage, Charles",
+            "affiliation": "University of Cambridge",
+            "type": "ProjectLeader"
         }
     ],
     "title": "The ELIXIR Training Lesson Template - Developing Training Together",
