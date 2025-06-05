@@ -46,12 +46,8 @@
     "contributors": [
         {
             "name": "De Bo, Christof",
-            "type": "Researcher"
-        },
-        {
-            "name": "Babbage, Charles",
-            "affiliation": "University of Cambridge",
-            "type": "ProjectLeader"
+            "orcid": "0000-0002-8210-4756",
+            "affiliation": "VIB",
         }
     ],
     "title": "Training Material: Training Material made FAIR by design",
