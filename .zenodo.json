@@ -7,7 +7,7 @@
         },
         {
             "orcid": "0000-0003-0280-6318",
-            "ror": "https://ror.org/00enajs79",
+            "ror": "Naional Bioinformatics Infrastructure Sweden",
             "name": "Kronander, Elin"
         },
         {
@@ -16,20 +16,33 @@
               "name": "Jarowski, Jill"
         }
     ],
-
-    "license": "cc-by-4.0",
-    "description": "<p>This is course aterial fr a 2 day course on how to make your training material FAIR</p>",
+     "contributors": [
+        {
+            "name": "De Bo, Christof",
+            "orcid": "https://orcid.org/0000-0002-8210-4756",
+            "affiliation": "VIB",
+        },
+    "description": "This repository contains training material for a 2 day course on how to make your training materials FAIR. Activities are intended to increase the technical skills and critical thinking during the development of a new training course. The general
+learning outcomes of this material are:
+- Create FAIR and open training material from the start
+- Apply FAIR principles to all elements of training material
+- Include AI tools in content creation of FAIR training material
+",
 
     "title": "FAIR Training material by design",
 
     "related_identifiers": [
         {
-            "scheme": "doi",
-            "identifier": "10.1234/software.paper.5678",
-            "relation": "isDocumentedBy",
-            "resource_type": "publication-article"
+         "identifier": "https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-MkDocs",
+            "relation": "isDerivedFrom",
+            "resource_type": "software"
         }
     ],
 
     "keywords": ["FAIR", "Training", "ELIXIR"]
+}
+    "upload_type": "lesson",
+    "language": "eng",
+    "grants": [{"id":"101094587"},
+{"description":"ELIXIR Staff Exchange"} ]
 }
