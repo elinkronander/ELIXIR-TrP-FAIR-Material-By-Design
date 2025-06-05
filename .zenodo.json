@@ -1,43 +1,35 @@
-
 {
     "creators": [
         {
+            "name": "Piereck, Bruna",
             "orcid": "0000-0001-5958-0669",
             "affiliation": "VIB",
-            "name": "Piereck, Bruna"
-        },
-        {
-            "orcid": "0000-0003-0280-6318",
-            "affiliation": "Naional Bioinformatics Infrastructure Sweden",
-            "name": "Kronander, Elin"
-        },
-        {
-            "orcid": "0000-0001-5958-0669",
-              "affiliation": "Science for life Laboratory",
-              "name": "Jarowski, Jill"
+            "type": "Author"
         }
     ],
     "contributors": [
         {
-            "name": "De Bo, Christof",
-            "orcid": "https://orcid.org/0000-0002-8210-4756",
+            "name": "De Bo, Christophe",
+            "orcid": 
             "affiliation": "VIB"
+            
         }
-     ],
-    "title": "Training Material: Training Material made FAIR by design",
-    "description" : "This repository contains training material for a 2 day course on how to make your training materials FAIR. Activities are intended to increase the technical skills and critical thinking around the FAIR principles",
+    ],
+    "title": "The ELIXIR Training Lesson Template - Developing Training Together",
+    "description" : "This is a description",
+    "message": "If you use this please cite",
     "access_right": "open",
     "related_identifiers": [
         {
-            "identifier": "https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-MkDocs",
+            "identifier": "https://doi.org/10.5281/zenodo.7913091",
             "relation": "isDerivedFrom",
             "resource_type": "software"
         }
     ],
     "keywords": [
-        "FAIR", 
-        "training",
-        "ELIXIR",
+        "collaborative education", 
+        "training ELIXIR ELIXIR Training Platform", 
+        "lesson template"
     ],
     "upload_type": "lesson",
     "language": "eng",
