@@ -40,9 +40,7 @@
     ],
 
     "keywords": ["FAIR", "Training", "ELIXIR"]
-}
     "upload_type": "lesson",
     "language": "eng",
-    "grants": [{"id":"101094587"},
-{"description":"ELIXIR Staff Exchange"} ]
+    "grants": [{"id":"101094587"}, {"description":"ELIXIR Staff Exchange"}]
 }
